@@ -26,15 +26,3 @@ To run this project after pulling it you just need to install the following libr
 * matplotlib
 * scipy
 <b>----------------------------------------------------------------------------------------</b>
-<h4>Cleaning A car price dataset</h4>A jupyter notebook file that consists of python libraries used to clean a csv dataset "cars.data", the dataset contains several columns and empty rows that needed cleaning, dummy variables was created becuae the csv file is going to be used for some machine learning models and the notebook was created and step by step comments on each block was made so as to make the user understand what happens per block of code. <b>Name of project (car_price_cleaning.ipynb)</b>
-
-### Technology used in this project
-<ul>
-<li> Python programming language and some of its libraries
-<ul>
-<li> Jupyter Notebook
-<li> Pandas
-<li> Matplotlib
-<li> Numpy
-</ul>
-</ul>
